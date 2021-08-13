@@ -1,48 +1,32 @@
-# ⚔️⚔️ANGEL USERBOT💝💝
+# HERMIONE USERBOT
+This is a ULTRA made for telegram. I made this HERMIONE with help of all other Bots available in telegram. All credits goes to its Respective Owners....
 
-A POWERFUL AND SUPER USERBOT.......
-<p align="center">
-  <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
-    
+This is the one and only official HERMIONE вσт made by [ @Addy_hermione](https://t.me/HermioneNetwork) 
 
+Also join [support channel and group](t.me/Hermione_Userbot_Support) Enjoy Your Bot!!💝
 
-![ANGEL THE USERBOT](https://telegra.ph/file/d6d167386d2eba4b7dabc.jpg)
+[![HERMIONE USERBOT](https://telegra.ph/Hi-08-13-18.jpg)](https://t.me/HermioneNetwork)
 
-### Group Support 💖💖
-`
-Click the button below to join our support group`
-   <a href="https://t.me/angel_ub_support"><img src="https://img.shields.io/badge/Grup%20Support%3F-ANGEL-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+-------------------------------------------------
 
-__Repository create by [SNOOPY X](@Always_Sed_af)__ 
+## Dᴇᴘʟᴏʏ:-
 
-__And  [AceDuke](@aceduke_xD)__ 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU)
 
-
-
-### Deploy to Heroku
-
-[![Deploy](https://telegra.ph/file/db66db4ab117958e15584.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/ANGEL-USERBOTS)
-
-### String Session 🖇
-`
-Click the button next to create your strings`
-[![repl](https://telegra.ph/file/fb84b6be1c33cc375e907.jpg)](https://replit.com/@provarun2021/SNOOPY-THE-USERBOT)
-    
 ------------------------------------------------
-## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `STRING_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
-------------
+## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-................
-© Special credit
-....................
-Thank you very so much 🙏
+## [String Session](https://replit.com/@BrijeshSingh4/HERMIONE-STRING-SESSION#main.py)
 
-•  TANDAV X FORCE!!!!
-.....................
+-------------------------------------------------
+
+## The owner would not be responsible for any kind of bans due to the bot...
+## Fᴏʀᴋ Aᴛ Yᴏᴜʀ Oᴡɴ Rɪsᴋ
+## Iɴsᴛᴀʟʟɪɴɢ
+
+### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+
+## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
+<a href="https://telegram.me/HermioneNetwork"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Hermione_Userbot_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
